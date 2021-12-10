@@ -1,0 +1,1 @@
+[{"id":1,"name":"volvo","driver":{"id":"1","name":"Святослав","isFree":false},"state":"base"},{"id":2,"name":"ЗИЛ","driver":{"id":"3","name":"Виталий","isFree":true},"state":"base"},{"id":3,"name":"КАМАЗ","driver":{"id":"2","name":"Иннокентий","isFree":true},"state":"base"}]
